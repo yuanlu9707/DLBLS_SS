@@ -1,10 +1,11 @@
 # DLBLS_SS
-The code is implemented using MATLAB 2022a.
+The code was implemented using MATLAB 2020a and 2022a.
 
 The CASP dataset can be downloaded from the website https://predictioncenter.org/.
 
 The code mainly provides model code and parameters, and the data processing part has been deleted. 
-In addition, the attached CBAM_TCN_example file can be used as a reference.
+In addition, the attached SETCN_example file can be used as a reference.
+
 The MultiplicationLayer file needs to be replaced.
 The MultiplicationLayer file is located at: D:\Program Files\MATLAB\R2022a\toolbox\nnet\cnn\+nnet\+cnn\+layer
 
@@ -14,4 +15,3 @@ Yuan L, Hu X, Ma Y, et al. DLBLS_SS: protein secondary structure prediction usin
 Contact For questions and comments, please feel free to contact: yuanlu9707@163.com.
 
 Continually updated.
-Code upload error, will be updated on May 11, 2023.
