@@ -1,5 +1,5 @@
 # DLBLS_SS
-The code was implemented using MATLAB 2020a and 2022a.
+The code is implemented using MATLAB 2020a and MATLAB 2022a.
 
 The CASP dataset can be downloaded from the website https://predictioncenter.org/.
 
